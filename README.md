@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Stelios Dimitriadis</h1>
-<h3 align="center">Hello, my name is Stelios and I am currently studying Computer Science And Telecommunications at the University of Athens. I am passionate about coding and constantly acquiring new skills, staying updated with the latest technologies and industry trends, and seeking opportunities to expand my knowledge.</h3>
+<h3 align="center">I am currently studying Computer Science And Telecommunications at the University of Athens. I am passionate about coding and constantly acquiring new skills, staying updated with the latest technologies and industry trends, and seeking opportunities to expand my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steliosdimb&label=Profile%20views&color=0e75b6&style=flat" alt="steliosdimb" /> </p>
 
@@ -21,6 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steliosdimb&show_icons=true&locale=en&layout=compact" alt="steliosdimb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steliosdimb&show_icons=true&locale=en" alt="steliosdimb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steliosdimb&" alt="steliosdimb" /></p>
